@@ -1,8 +1,0 @@
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-D:\Usuario\Desktop\Gonzalo\TotalCoin\VeterinariaPruebaTecnica\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
