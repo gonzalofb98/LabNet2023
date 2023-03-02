@@ -28,8 +28,8 @@ namespace LabNet
             this.pasajeros = pasajeros;
         }
 
-        public abstract void Avanzar();
+        public abstract string Avanzar();
 
-        public abstract void Detenerse();
+        public abstract string Detenerse();
     }
 }

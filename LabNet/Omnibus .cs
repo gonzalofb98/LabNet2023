@@ -12,14 +12,15 @@ namespace LabNet
         {
         }
 
-        public override void Avanzar()
+        // agrego el string a Avanzar y Detenerse en por ponerle algo al metodo
+        public override string Avanzar()
         {
-            Console.WriteLine($"El ómnibus avanza con {pasajeros} pasajeros.");
+            return $"El ómnibus avanza con {pasajeros} pasajeros.";
         }
 
-        public override void Detenerse()
+        public override string Detenerse()
         {
-            Console.WriteLine($"El ómnibus se detiene con {pasajeros} pasajeros.");
+            return $"El ómnibus se detiene con {pasajeros} pasajeros.";
         }
     }
 }

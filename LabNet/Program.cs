@@ -10,15 +10,14 @@ namespace LabNetProject
         static void Main(string[] args)
         {
             List<TransportePublico> transportes = new List<TransportePublico>();
-            var pasajerosDeColectivo = new Random();
-            var pasajerosDeTaxi = new Random();
+            var pasajeros = new Random();
 
             for (int i = 5; i > 0; i--)
             {
-                Omnibus omnibus = new Omnibus(i, pasajerosDeColectivo.Next(1, 100));
+                TransportePublico omnibus = new Omnibus(i, pasajeros.Next(1, 100));
                 transportes.Add(omnibus);
 
-                Taxi taxi = new Taxi(i, pasajerosDeTaxi.Next(1, 4));
+                TransportePublico taxi = new Taxi(i, pasajeros.Next(1, 4));
                 transportes.Add(taxi);
             }
 
