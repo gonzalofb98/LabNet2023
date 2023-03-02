@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{5A32515B-1AAF-44D1-8969-28B97DC65C8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabNetProject", "HelloWorld\LabNetProject.csproj", "{5A32515B-1AAF-44D1-8969-28B97DC65C8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
