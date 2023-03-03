@@ -10,17 +10,18 @@ namespace LabNet
     {
         public Omnibus(int id, int pasajeros) : base(id,pasajeros)
         {
+            if (pasajeros < 0 || pasajeros > 100)
+                throw new ArgumentException("El número de pasajeros debe estar entre 0 y 100.");
         }
 
-        // agrego el string a Avanzar y Detenerse en por ponerle algo al metodo
         public override string Avanzar()
         {
-            return $"El ómnibus avanza con {pasajeros} pasajeros.";
+            return $"El ómnibus avanza con {Pasajeros} pasajeros.";
         }
 
         public override string Detenerse()
         {
-            return $"El ómnibus se detiene con {pasajeros} pasajeros.";
+            return $"El ómnibus se detiene con {Pasajeros} pasajeros.";
         }
     }
 }

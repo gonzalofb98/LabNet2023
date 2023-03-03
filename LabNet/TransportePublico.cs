@@ -8,14 +8,14 @@ namespace LabNet
 {
     public abstract class TransportePublico
     {
-        protected int id;
+        private int id;
 
         public int Id
         {
             get { return id; }
         }
 
-        protected int pasajeros;
+        private int pasajeros;
 
         public int Pasajeros
         {
